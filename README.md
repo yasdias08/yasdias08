@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>👋 Olá, eu sou a Yasmin Dias!</h1>
+  <h1> Olá, eu sou a Yasmin Dias!</h1>
 
-  <h3 style="font-size 40px;">👤 Sobre Mim</h3>
+  <h3 style="font-size 40px;">Sobre Mim</h3>
 
   <p>
    Sou estudante de <strong>Desenvolvimento de Sistemas</strong>,
