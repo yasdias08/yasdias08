@@ -5,8 +5,8 @@
 
   <p>
    Sou estudante de <strong>Desenvolvimento de Sistemas</strong>,
-atualmente no <strong>3º ano do Ensino Médio</strong> e no <strong>2º
-ano do curso técnico</strong> na <strong>E.E. Major Telmo Coelho
+atualmente no <strong>3º ano do Ensino Médio</strong> <strong>
+e do curso técnico</strong> na <strong>E.E. Major Telmo Coelho
 Filho</strong>.
     Tenho interesse em <strong>programação, lógica e desenvolvimento
 web</strong>, direcionando meus estudos principalmente para
